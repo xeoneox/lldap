@@ -7,7 +7,7 @@ For all configuration options see the [Authelia LDAP Documentation](https://www.
 The following example configuration uses the LLDAP implementation template, the default values are documented in the
 [Authelia LLDAP Integration Guide](https://www.authelia.com/integration/ldap/lldap/).
 
-Users will be able to sign in using their username or email address.
+Users will be able to sign in using their username or email address. 
 
 ```yaml
 authentication_backend:
